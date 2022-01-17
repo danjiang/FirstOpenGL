@@ -22,13 +22,20 @@
     <ClCompile Include="glad.c" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="stb_image.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shader.h" />
+    <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="frag.glsl" />
     <None Include="vert.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="awesomeface.png" />
+    <Image Include="container.jpg" />
+    <Image Include="wall.jpg" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
