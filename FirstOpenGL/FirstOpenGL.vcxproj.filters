@@ -61,6 +61,18 @@
     <None Include="2.2.light_cube.vs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="3.1.materials.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="3.1.materials.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="3.1.light_cube.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="3.1.light_cube.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
