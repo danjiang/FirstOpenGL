@@ -73,6 +73,18 @@
     <None Include="3.1.light_cube.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="4.2.lighting_maps.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="4.2.lighting_maps.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="4.2.light_cube.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="4.2.light_cube.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
@@ -82,6 +94,12 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="awesomeface.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="container2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="container2_specular.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
