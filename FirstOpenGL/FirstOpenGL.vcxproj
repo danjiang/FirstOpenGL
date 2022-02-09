@@ -26,10 +26,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shader.h" />
+    <ClInclude Include="Camera.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="frag.glsl" />
-    <None Include="vert.glsl" />
+    <None Include="1.colors.fs" />
+    <None Include="1.colors.vs" />
+    <None Include="1.light_cube.fs" />
+    <None Include="1.light_cube.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />
