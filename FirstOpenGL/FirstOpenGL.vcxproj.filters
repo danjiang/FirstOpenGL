@@ -85,6 +85,66 @@
     <None Include="4.2.light_cube.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="5.1.light_casters.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.1.light_casters.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.1.light_cube.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.1.light_cube.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.2.light_casters.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.2.light_casters.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.2.light_cube.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.2.light_cube.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.3.light_casters.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.3.light_casters.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.3.light_cube.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.3.light_cube.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.4.light_casters.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.4.light_casters.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.4.light_cube.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.4.light_cube.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="6.multiple_lights.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="6.multiple_lights.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="6.light_cube.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="6.light_cube.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
