@@ -31,6 +31,8 @@
     <ClInclude Include="camera.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="1.1.depth_testing.fs" />
+    <None Include="1.1.depth_testing.vs" />
     <None Include="1.colors.fs" />
     <None Include="1.colors.vs" />
     <None Include="1.light_cube.fs" />
@@ -75,6 +77,8 @@
     <Image Include="container.jpg" />
     <Image Include="container2.png" />
     <Image Include="container2_specular.png" />
+    <Image Include="marble.jpg" />
+    <Image Include="metal.png" />
     <Image Include="wall.jpg" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

@@ -163,6 +163,12 @@
     <None Include="1.model_loading.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="1.1.depth_testing.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="1.1.depth_testing.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
@@ -178,6 +184,12 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="container2_specular.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="marble.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="metal.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
