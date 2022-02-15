@@ -178,6 +178,18 @@
     <None Include="2.stencil_single_color.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="3.1.blending.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="3.1.blending.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="3.2.blending.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="3.2.blending.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
@@ -199,6 +211,9 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="metal.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="grass.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
