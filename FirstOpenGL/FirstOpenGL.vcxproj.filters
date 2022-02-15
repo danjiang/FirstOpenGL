@@ -169,6 +169,15 @@
     <None Include="1.1.depth_testing.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="2.stencil_testing.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.stencil_testing.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.stencil_single_color.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
