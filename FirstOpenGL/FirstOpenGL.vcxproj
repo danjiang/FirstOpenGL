@@ -58,6 +58,10 @@
     <None Include="4.2.lighting_maps.vs" />
     <None Include="4.2.light_cube.fs" />
     <None Include="4.2.light_cube.vs" />
+    <None Include="5.1.framebuffers.fs" />
+    <None Include="5.1.framebuffers.vs" />
+    <None Include="5.1.framebuffers_screen.fs" />
+    <None Include="5.1.framebuffers_screen.vs" />
     <None Include="5.1.light_casters.fs" />
     <None Include="5.1.light_casters.vs" />
     <None Include="5.1.light_cube.fs" />

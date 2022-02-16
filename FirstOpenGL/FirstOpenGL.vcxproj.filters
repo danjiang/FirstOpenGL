@@ -190,6 +190,18 @@
     <None Include="3.2.blending.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="5.1.framebuffers.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.1.framebuffers.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.1.framebuffers_screen.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.1.framebuffers_screen.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
