@@ -78,6 +78,10 @@
     <None Include="5.4.light_casters.vs" />
     <None Include="5.4.light_cube.fs" />
     <None Include="5.4.light_cube.vs" />
+    <None Include="6.1.cubemaps.fs" />
+    <None Include="6.1.cubemaps.vs" />
+    <None Include="6.1.skybox.fs" />
+    <None Include="6.1.skybox.vs" />
     <None Include="6.light_cube.fs" />
     <None Include="6.light_cube.vs" />
     <None Include="6.multiple_lights.fs" />
@@ -91,6 +95,12 @@
     <Image Include="grass.png" />
     <Image Include="marble.jpg" />
     <Image Include="metal.png" />
+    <Image Include="skybox_back.jpg" />
+    <Image Include="skybox_bottom.jpg" />
+    <Image Include="skybox_front.jpg" />
+    <Image Include="skybox_left.jpg" />
+    <Image Include="skybox_right.jpg" />
+    <Image Include="skybox_top.jpg" />
     <Image Include="wall.jpg" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
