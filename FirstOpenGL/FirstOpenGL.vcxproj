@@ -43,6 +43,10 @@
     <None Include="10.1.instancing.vs" />
     <None Include="10.2.instancing.fs" />
     <None Include="10.2.instancing.vs" />
+    <None Include="10.3.asteroids.fs" />
+    <None Include="10.3.asteroids.vs" />
+    <None Include="10.3.planet.fs" />
+    <None Include="10.3.planet.vs" />
     <None Include="2.2.basic_lighting.fs" />
     <None Include="2.2.basic_lighting.vs" />
     <None Include="2.2.light_cube.fs" />
