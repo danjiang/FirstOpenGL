@@ -235,6 +235,12 @@
     <None Include="10.1.instancing.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="10.2.instancing.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.2.instancing.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
