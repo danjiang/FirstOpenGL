@@ -214,6 +214,21 @@
     <None Include="6.1.skybox.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="8.advanced_glsl.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="8.red.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="8.green.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="8.blue.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="8.yellow.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
