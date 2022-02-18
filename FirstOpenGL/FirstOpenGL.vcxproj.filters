@@ -262,6 +262,30 @@
     <None Include="9.1.geometry_shader.gs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="9.2.geometry_shader.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.2.geometry_shader.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.2.geometry_shader.gs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.3.default.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.3.default.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.3.normal_visualization.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.3.normal_visualization.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.3.normal_visualization.gs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">

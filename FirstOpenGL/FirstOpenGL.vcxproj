@@ -102,6 +102,14 @@
     <None Include="9.1.geometry_shader.fs" />
     <None Include="9.1.geometry_shader.gs" />
     <None Include="9.1.geometry_shader.vs" />
+    <None Include="9.2.geometry_shader.fs" />
+    <None Include="9.2.geometry_shader.gs" />
+    <None Include="9.2.geometry_shader.vs" />
+    <None Include="9.3.default.fs" />
+    <None Include="9.3.default.vs" />
+    <None Include="9.3.normal_visualization.fs" />
+    <None Include="9.3.normal_visualization.gs" />
+    <None Include="9.3.normal_visualization.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />
