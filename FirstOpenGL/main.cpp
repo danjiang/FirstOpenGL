@@ -13,7 +13,6 @@
 #include "model.h"
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
-void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void mouse_callback(GLFWwindow* window, double xpos, double ypos);
 void scroll_callback(GLFWwindow* window, double xoffset, double yoffset);
 void processInput(GLFWwindow* window);
@@ -76,13 +75,11 @@ int main()
 
     // build and compile shaders
     // -------------------------
-    Shader shader("9.3.default.vs", "9.3.default.fs");
-    Shader normalShader("9.3.normal_visualization.vs", "9.3.normal_visualization.fs", "9.3.normal_visualization.gs");
+    Shader shader("9.2.geometry_shader.vs", "9.2.geometry_shader.fs", "9.2.geometry_shader.gs");
 
     // load models
     // -----------
-    stbi_set_flip_vertically_on_load(true);
-    Model backpack("C:/Users/danth/source/repos/FirstOpenGL/backpack/backpack.obj");
+    Model nanosuit("C:/Users/danth/source/repos/FirstOpenGL/nanosuit/nanosuit.obj");
 
     // render loop
     // -----------
@@ -112,16 +109,11 @@ int main()
         shader.setMat4("view", view);
         shader.setMat4("model", model);
 
-        // draw model as usual
-        backpack.Draw(shader);
+        // add time component to geometry shader in the form of a uniform
+        shader.setFloat("time", static_cast<float>(glfwGetTime()));
 
-        // then draw model with normal visualizing geometry shader
-        normalShader.use();
-        normalShader.setMat4("projection", projection);
-        normalShader.setMat4("view", view);
-        normalShader.setMat4("model", model);
-
-        backpack.Draw(normalShader);
+        // draw model
+        nanosuit.Draw(shader);
 
         // glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
         // -------------------------------------------------------------------------------
