@@ -253,6 +253,15 @@
     <None Include="10.3.planet.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="9.1.geometry_shader.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.1.geometry_shader.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.1.geometry_shader.gs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
