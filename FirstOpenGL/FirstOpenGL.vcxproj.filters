@@ -292,6 +292,18 @@
     <None Include="11.1.anti_aliasing.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="11.2.anti_aliasing.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="11.2.anti_aliasing.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="11.2.aa_post.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="11.2.aa_post.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
