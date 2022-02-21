@@ -33,6 +33,8 @@
   <ItemGroup>
     <None Include="1.1.depth_testing.fs" />
     <None Include="1.1.depth_testing.vs" />
+    <None Include="1.advanced_lighting.fs" />
+    <None Include="1.advanced_lighting.vs" />
     <None Include="1.colors.fs" />
     <None Include="1.colors.vs" />
     <None Include="1.light_cube.fs" />
@@ -132,6 +134,7 @@
     <Image Include="skybox_right.jpg" />
     <Image Include="skybox_top.jpg" />
     <Image Include="wall.jpg" />
+    <Image Include="wood.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

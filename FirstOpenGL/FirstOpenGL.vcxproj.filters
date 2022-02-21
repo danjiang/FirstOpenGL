@@ -304,6 +304,12 @@
     <None Include="11.2.aa_post.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="1.advanced_lighting.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="1.advanced_lighting.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
@@ -346,6 +352,9 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="skybox_top.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="wood.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
