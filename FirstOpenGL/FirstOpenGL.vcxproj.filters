@@ -310,6 +310,12 @@
     <None Include="1.advanced_lighting.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="2.gamma_correction.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.gamma_correction.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
