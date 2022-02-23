@@ -120,14 +120,20 @@
     <None Include="5.1.light_casters.vs" />
     <None Include="5.1.light_cube.fs" />
     <None Include="5.1.light_cube.vs" />
+    <None Include="5.1.parallax_mapping.fs" />
+    <None Include="5.1.parallax_mapping.vs" />
     <None Include="5.2.light_casters.fs" />
     <None Include="5.2.light_casters.vs" />
     <None Include="5.2.light_cube.fs" />
     <None Include="5.2.light_cube.vs" />
+    <None Include="5.2.parallax_mapping.fs" />
+    <None Include="5.2.parallax_mapping.vs" />
     <None Include="5.3.light_casters.fs" />
     <None Include="5.3.light_casters.vs" />
     <None Include="5.3.light_cube.fs" />
     <None Include="5.3.light_cube.vs" />
+    <None Include="5.3.parallax_mapping.fs" />
+    <None Include="5.3.parallax_mapping.vs" />
     <None Include="5.4.light_casters.fs" />
     <None Include="5.4.light_casters.vs" />
     <None Include="5.4.light_cube.fs" />
@@ -159,6 +165,9 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />
+    <Image Include="bricks2.jpg" />
+    <Image Include="bricks2_disp.jpg" />
+    <Image Include="bricks2_normal.jpg" />
     <Image Include="brickwall.jpg" />
     <Image Include="brickwall_normal.jpg" />
     <Image Include="container.jpg" />

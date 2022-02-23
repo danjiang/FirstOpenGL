@@ -424,6 +424,24 @@
     <None Include="4.normal_mapping.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="5.1.parallax_mapping.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.1.parallax_mapping.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.2.parallax_mapping.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.2.parallax_mapping.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.3.parallax_mapping.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="5.3.parallax_mapping.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
@@ -475,6 +493,15 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="brickwall_normal.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bricks2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bricks2_disp.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bricks2_normal.jpg">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
