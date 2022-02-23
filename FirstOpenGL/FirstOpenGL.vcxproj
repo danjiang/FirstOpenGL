@@ -49,6 +49,14 @@
     <None Include="10.3.asteroids.vs" />
     <None Include="10.3.planet.fs" />
     <None Include="10.3.planet.vs" />
+    <None Include="10.debug_cascade.fs" />
+    <None Include="10.debug_cascade.vs" />
+    <None Include="10.debug_quad.vs" />
+    <None Include="10.debug_quad_depth.fs" />
+    <None Include="10.shadow_mapping.fs" />
+    <None Include="10.shadow_mapping.vs" />
+    <None Include="10.shadow_mapping_depth.fs" />
+    <None Include="10.shadow_mapping_depth.vs" />
     <None Include="11.1.anti_aliasing.fs" />
     <None Include="11.1.anti_aliasing.vs" />
     <None Include="11.2.aa_post.fs" />

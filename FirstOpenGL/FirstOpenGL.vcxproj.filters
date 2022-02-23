@@ -394,6 +394,30 @@
     <None Include="3.2.2.point_shadows_depth.gs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="10.shadow_mapping.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping_depth.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping_depth.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.debug_quad.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.debug_quad_depth.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.debug_cascade.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="10.debug_cascade.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
