@@ -418,6 +418,12 @@
     <None Include="10.debug_cascade.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="4.normal_mapping.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="4.normal_mapping.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
@@ -463,6 +469,12 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="wood.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="brickwall.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="brickwall_normal.jpg">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
