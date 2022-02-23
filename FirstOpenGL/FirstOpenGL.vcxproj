@@ -86,6 +86,16 @@
     <None Include="3.1.light_cube.vs" />
     <None Include="3.1.materials.fs" />
     <None Include="3.1.materials.vs" />
+    <None Include="3.2.1.point_shadows.fs" />
+    <None Include="3.2.1.point_shadows.vs" />
+    <None Include="3.2.1.point_shadows_depth.fs" />
+    <None Include="3.2.1.point_shadows_depth.gs" />
+    <None Include="3.2.1.point_shadows_depth.vs" />
+    <None Include="3.2.2.point_shadows.fs" />
+    <None Include="3.2.2.point_shadows.vs" />
+    <None Include="3.2.2.point_shadows_depth.fs" />
+    <None Include="3.2.2.point_shadows_depth.gs" />
+    <None Include="3.2.2.point_shadows_depth.vs" />
     <None Include="3.2.blending.fs" />
     <None Include="3.2.blending.vs" />
     <None Include="4.2.lighting_maps.fs" />
