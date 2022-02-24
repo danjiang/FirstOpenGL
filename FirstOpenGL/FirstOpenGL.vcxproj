@@ -142,6 +142,10 @@
     <None Include="6.1.cubemaps.vs" />
     <None Include="6.1.skybox.fs" />
     <None Include="6.1.skybox.vs" />
+    <None Include="6.hdr.fs" />
+    <None Include="6.hdr.vs" />
+    <None Include="6.lighting.fs" />
+    <None Include="6.lighting.vs" />
     <None Include="6.light_cube.fs" />
     <None Include="6.light_cube.vs" />
     <None Include="6.multiple_lights.fs" />

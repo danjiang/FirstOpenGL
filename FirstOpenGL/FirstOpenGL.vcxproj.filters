@@ -442,6 +442,18 @@
     <None Include="5.3.parallax_mapping.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="6.lighting.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="6.lighting.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="6.hdr.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="6.hdr.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
