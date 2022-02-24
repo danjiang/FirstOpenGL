@@ -150,6 +150,13 @@
     <None Include="6.light_cube.vs" />
     <None Include="6.multiple_lights.fs" />
     <None Include="6.multiple_lights.vs" />
+    <None Include="7.bloom.fs" />
+    <None Include="7.bloom.vs" />
+    <None Include="7.bloom_final.fs" />
+    <None Include="7.bloom_final.vs" />
+    <None Include="7.blur.fs" />
+    <None Include="7.blur.vs" />
+    <None Include="7.light_box.fs" />
     <None Include="8.advanced_glsl.vs" />
     <None Include="8.blue.fs" />
     <None Include="8.green.fs" />
