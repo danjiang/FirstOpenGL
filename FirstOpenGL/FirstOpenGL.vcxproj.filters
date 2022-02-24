@@ -511,6 +511,24 @@
     <None Include="8.2.deferred_light_box.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="9.ssao_geometry.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.ssao_geometry.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.ssao.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.ssao_lighting.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.ssao.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="9.ssao_blur.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">

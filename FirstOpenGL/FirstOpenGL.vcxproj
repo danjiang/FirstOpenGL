@@ -185,6 +185,12 @@
     <None Include="9.3.normal_visualization.fs" />
     <None Include="9.3.normal_visualization.gs" />
     <None Include="9.3.normal_visualization.vs" />
+    <None Include="9.ssao.fs" />
+    <None Include="9.ssao.vs" />
+    <None Include="9.ssao_blur.fs" />
+    <None Include="9.ssao_geometry.fs" />
+    <None Include="9.ssao_geometry.vs" />
+    <None Include="9.ssao_lighting.fs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png" />
