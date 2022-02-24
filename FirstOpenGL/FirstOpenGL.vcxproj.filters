@@ -529,6 +529,117 @@
     <None Include="9.ssao_blur.fs">
       <Filter>源文件\shaders</Filter>
     </None>
+    <None Include="1.1.pbr.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="1.1.pbr.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="1.2.pbr.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="1.2.pbr.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.1.pbr.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.1.pbr.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.1.cubemap.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.1.equirectangular_to_cubemap.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.1.background.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.1.background.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.2.pbr.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.2.pbr.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.2.cubemap.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.2.equirectangular_to_cubemap.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.2.irradiance_convolution.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.2.background.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.1.2.background.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.pbr.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.pbr.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.cubemap.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.equirectangular_to_cubemap.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.irradiance_convolution.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.prefilter.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.brdf.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.brdf.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.background.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.1.background.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.pbr.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.pbr.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.cubemap.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.equirectangular_to_cubemap.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.irradiance_convolution.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.prefilter.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.brdf.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.brdf.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.background.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="2.2.2.background.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="container.jpg">
